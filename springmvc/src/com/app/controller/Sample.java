@@ -1,6 +1,8 @@
 package com.app.controller;
 
-public class Sample {
-	ExampleController e= new ExampleController();
+import java.util.Vector;
 
+public class Sample {
+	ExampleController e = new ExampleController();
+	Vector v = new Vector<>();
 }
