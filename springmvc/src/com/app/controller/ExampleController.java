@@ -13,6 +13,7 @@ public class ExampleController {
 		list.add("d");
 		list.add("e");
 		System.out.println(list);
+		System.out.println();
 
 	}
 
